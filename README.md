@@ -1,0 +1,2 @@
+# zapbot
+Bot para discord
